@@ -35,6 +35,7 @@ namespace Restaurant.human
         {
             Order = true;
             ClientOrder = new Order();
+            
         }
 
         public void TakeMenu(Menu menu)

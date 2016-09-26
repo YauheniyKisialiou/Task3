@@ -14,3 +14,11 @@ C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\bin\Debug\Restaurant.pdb
 C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\obj\Debug\Test.dll
 C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\obj\Debug\Test.pdb
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task3\Test\obj\Debug\Test.dll
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task3\Test\obj\Debug\Test.pdb
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task3\Test\bin\Debug\Test.dll
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task3\Test\bin\Debug\Test.pdb
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task3\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task3\Test\bin\Debug\Restaurant.exe
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task3\Test\bin\Debug\Restaurant.pdb

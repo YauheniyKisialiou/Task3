@@ -10,11 +10,22 @@ namespace Restaurant.objects
     {
         public decimal CostOfOrder { get; set; }
 
-        public bool OrderStatus { get; set; }
+        public enum OrderStatus
+        {
+            NOTREADY,
+            TAKEN,
+            COOKING,
+            READY
+        }
+
+        public OrderStatus Status { get; set; }
+
+        //public bool OrderStatus { get; set; }
 
         public Order()
         {
             CostOfOrder = 70m;
+            Status = OrderStatus.NOTREADY;
         }
     }
 }

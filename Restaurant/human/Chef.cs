@@ -16,7 +16,16 @@ namespace Restaurant.human
 
         public void Cook()
         {
-            ListOfOrder[0].OrderStatus = true;
+            //ListOfOrder[0].OrderStatus = true;
+            ListOfOrder[0].Status = Order.OrderStatus.READY;
+
+        }
+
+        public override void GetOrder(Order order)
+        {
+            ListOfOrder = new List<Order>();
+            order.Status = Order.OrderStatus.COOKING;
+            ListOfOrder.Add(order);
 
         }
 

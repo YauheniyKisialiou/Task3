@@ -19,16 +19,19 @@ namespace Restaurant.human
             Profession = profession;
         }
 
-        public void GetOrder(Order order)
+        public virtual void GetOrder(Order order)
         {
             ListOfOrder = new List<Order>();
+            order.Status = Order.OrderStatus.TAKEN;
             ListOfOrder.Add(order);
+            
         }
 
         public Order GiveOrder()
         {
             Order tempOrder = ListOfOrder[0];
             ListOfOrder.RemoveAt(0);
+            tempOrder.Status = Order.OrderStatus.TAKEN;
             return tempOrder;
         }
 

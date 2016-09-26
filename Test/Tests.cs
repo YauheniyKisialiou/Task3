@@ -71,7 +71,7 @@ namespace Test
             waiter.GetOrder(client.ClientOrder);
             chef.GetOrder(waiter.GiveOrder());
             chef.Cook();
-            Assert.AreEqual(true, chef.ListOfOrder[0].OrderStatus);
+            Assert.AreEqual(3, (int)chef.ListOfOrder[0].Status);
         }
 
         [TestMethod]
