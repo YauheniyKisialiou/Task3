@@ -1,0 +1,16 @@
+D:\1\Task3\Test\bin\Debug\Test.dll
+D:\1\Task3\Test\bin\Debug\Test.pdb
+D:\1\Task3\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\1\Task3\Test\bin\Debug\Restaurant.exe
+D:\1\Task3\Test\bin\Debug\Restaurant.pdb
+D:\1\Task3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\1\Task3\Test\obj\Debug\Test.dll
+D:\1\Task3\Test\obj\Debug\Test.pdb
+C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\bin\Debug\Test.dll
+C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\bin\Debug\Test.pdb
+C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\bin\Debug\Restaurant.exe
+C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\bin\Debug\Restaurant.pdb
+C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\obj\Debug\Test.dll
+C:\Users\Yauheniy_Kisialiou\Desktop\Task3\Test\obj\Debug\Test.pdb
